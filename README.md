@@ -1,0 +1,1 @@
+# szorzotabla.py
